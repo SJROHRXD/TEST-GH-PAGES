@@ -2,12 +2,15 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gitname.github.io/TEST-GH-PAGES",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "5.0.1"
   },
   "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -30,6 +33,7 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.8.0",
-    "@testing-library/react": "^9.5.0"
+    "@testing-library/react": "^9.5.0",
+    "gh-pages": "^5.0.0"
   }
 }
