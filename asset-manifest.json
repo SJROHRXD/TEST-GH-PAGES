@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TEST-GH-PAGES/static/css/main.fc497156.css",
+    "main.js": "/TEST-GH-PAGES/static/js/main.a8372782.js",
+    "static/media/cover-image.jpg": "/TEST-GH-PAGES/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "static/media/run-buddy.jpg": "/TEST-GH-PAGES/static/media/run-buddy.b57f2b88349c6b77211d.jpg",
+    "static/media/led-wall.jpg": "/TEST-GH-PAGES/static/media/led-wall.c905c2d12b5c9b7485ff.jpg",
+    "static/media/calculator.jpg": "/TEST-GH-PAGES/static/media/calculator.bb6f4d8d88b3569cb0e0.jpg",
+    "static/media/surf-report.jpg": "/TEST-GH-PAGES/static/media/surf-report.6490cdfef5afd0538437.jpg",
+    "static/media/pastel-puzzels.jpg": "/TEST-GH-PAGES/static/media/pastel-puzzels.5ff0a7600bae7cd50d00.jpg",
+    "index.html": "/TEST-GH-PAGES/index.html",
+    "main.fc497156.css.map": "/TEST-GH-PAGES/static/css/main.fc497156.css.map",
+    "main.a8372782.js.map": "/TEST-GH-PAGES/static/js/main.a8372782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc497156.css",
+    "static/js/main.a8372782.js"
+  ]
+}
